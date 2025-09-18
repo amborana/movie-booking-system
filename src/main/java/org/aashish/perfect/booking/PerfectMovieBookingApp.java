@@ -1,4 +1,4 @@
-package org.aashish.perfect; // ✅ Your chosen package name
+package org.aashish.perfect.booking; // ✅ Your chosen package name
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
